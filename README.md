@@ -1,6 +1,6 @@
-# Robust Deepfake Detection under Compression and Domain Shift
+# Robust Image Deepfake Detection under Compression and Domain Shift
 
-### A Comparative Study of CNN and Transformer Models with Frequency-Aware Learning and Compression-Aware Training
+### Robust image deepfake detection under JPEG compression and cross-dataset domain shift using DCT-aware CNNs and Vision Transformers.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c.svg)](https://pytorch.org/)
@@ -74,7 +74,7 @@ The primary objectives of this project are:
 ## Repository Structure
 
 ```text
-robust-deepfake-detection/
+robust-image-deepfake-detection/
 │
 ├── baselines/
 │   ├── xception65/
@@ -377,8 +377,8 @@ This provides a comprehensive comparison of model robustness under realistic ima
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/mubashar-ds/robust-deepfake-detection.git
-cd robust-deepfake-detection
+git clone https://github.com/mubashar-ds/robust-image-deepfake-detection.git
+cd robust-image-deepfake-detection
 ```
 
 ---
