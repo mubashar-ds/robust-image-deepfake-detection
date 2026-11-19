@@ -74,7 +74,7 @@ The primary objectives of this project are:
 ## Repository Structure
 
 ```text
-MSDS24031_Project_DLSpring2026/
+robust-deepfake-detection/
 │
 ├── baselines/
 │   ├── xception65/
@@ -377,8 +377,8 @@ This provides a comprehensive comparison of model robustness under realistic ima
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/mubashar-ds/MSDS24031_Project_DLSpring2026.git
-cd MSDS24031_Project_DLSpring2026
+git clone https://github.com/mubashar-ds/robust-deepfake-detection.git
+cd robust-deepfake-detection
 ```
 
 ---
